@@ -1,0 +1,132 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Web Development",
+        "instructor": "John Doe",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Python Programming",
+        "instructor": "Jane Smith",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Introduction to API Development",
+        "instructor": "John Doe",
+        "duration": "6 weeks",
+        "level": "Beginner",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Javascript Programming",
+        "instructor": "Jnee Smith",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Type script",
+        "instructor": "John Doe",
+        "duration": "8 weeks",
+        "level": "Intermediate",
+        "description": "Learn the basics of HTML, CSS, and Typescript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 6,
+        "title": "React js Programming",
+        "instructor": "Tom ",
+        "duration": "4 weeks",
+        "level": "Advance",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Introduction to Next  js",
+        "instructor": "John Doe",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 8,
+        "title": "HTML CSS and Javascript",
+        "instructor": "Jane Smith",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Introduction to Graph QL",
+        "instructor": "John Doe",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 10,
+        "title": "PHP Programming",
+        "instructor": "Jane Smith",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Introduction to Laravel",
+        "instructor": "John Doe",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Designing",
+        "instructor": "Jane Smith",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Introduction to Prototype",
+        "instructor": "John Doe",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
+        "image": "web-development.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Djengo Programming",
+        "instructor": "Jane Smith",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "description": "Dive into the world of Python programming and explore its versatile applications.",
+        "image": "python-programming.jpg"
+      }
+
+    ]
+  }
+  
